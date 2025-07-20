@@ -1,5 +1,6 @@
 # AMAZONE-CLONE
 A amazon interface made using HTML and CSS
+
 🛒 Amazon Clone (HTML + CSS)
 
 This is a responsive Amazon.com homepage clone built using only HTML and CSS. It mimics the look and basic layout of Amazon's website, including the header, navigation bar, product listings, and footer.
