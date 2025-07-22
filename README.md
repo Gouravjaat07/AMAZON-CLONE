@@ -16,6 +16,7 @@ This is a responsive Amazon.com homepage clone built using only HTML and CSS. It
 - ✅ Amazon-style header with logo, search bar, and account/cart icons  
 - ✅ Responsive navigation bar 
 - ✅ Amazon Latest Version
+- ✅ Featuring interactive hover effects on buttons, icons and text etc.
 - ✅ Product flex layout  
 - ✅ Footer section with links  
 
