@@ -5,7 +5,8 @@ A amazon interface made using HTML and CSS
 
 This is a responsive Amazon.com homepage clone built using only HTML and CSS. It mimics the look and basic layout of Amazon's website, including the header, navigation bar, product listings, and footer.
 
-Demo
+🚀 Demo
+
 
 https://github.com/user-attachments/assets/7b431e35-6c44-48e7-93f7-3055dd6a7253
 
