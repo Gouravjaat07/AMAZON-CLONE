@@ -1,4 +1,3 @@
-<img width="1837" height="884" alt="image" src="https://github.com/user-attachments/assets/eea41fd0-fcf2-4fb0-b0c8-1ff14e626e31" /># AMAZONE-CLONE
 A amazon interface made using HTML and CSS
 
 🛒 Amazon Clone (HTML + CSS)
